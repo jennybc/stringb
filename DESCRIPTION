@@ -19,5 +19,6 @@ Suggests:
     testthat (>= 2.1.0),
     covr
 RoxygenNote: 7.2.3
-URL: https://github.com/hadley/stringb
+URL: https://github.com/hadley/stringb, https://jennybc.github.io/stringb/
 BugReports: https://github.com/hadley/stringb/issues
+Config/Needs/website: tidyverse/tidytemplate
